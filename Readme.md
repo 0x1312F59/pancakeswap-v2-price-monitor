@@ -26,8 +26,6 @@ The application continuously fetches swap quotes through the PancakeSwap router 
 ## Example Output
 
 ```bash
-Monitoring PancakeSwap price...
---------------------------------
 [21:44:01] 1 CAKE = 2.315842 USDT
 [21:44:02] 1 CAKE = 2.315901 USDT
 [21:44:03] 1 CAKE = 2.316155 USDT
@@ -65,7 +63,7 @@ Monitoring PancakeSwap price...
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/pancakeswap-price-monitor.git
+git clone https://github.com/0x1312F59/pancakeswap-price-monitor.git
 
 cd pancakeswap-price-monitor
 ```
