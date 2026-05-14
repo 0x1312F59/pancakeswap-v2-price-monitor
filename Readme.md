@@ -146,7 +146,3 @@ This allows accurate live quote estimation directly from on-chain liquidity pool
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-```
