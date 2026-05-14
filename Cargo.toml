@@ -1,0 +1,11 @@
+[package]
+name = "pancakeswap-v2-price-monitor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+ethers = { version = "2", features = ["ws", "rustls"] }
+anyhow = "1"
+dotenv = "0.15"
+chrono = "0.4"
